@@ -1,0 +1,35 @@
+.no-pad{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.pad-bot{
+    margin-bottom: 5px;
+}
+
+.pad-bot2{
+    margin-bottom: 20px;
+}
+
+.pad-all{
+
+    margin-top: 20px;
+}
+
+.pad-top{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.pad-top2{
+  margin-top: 50px;
+}
+
+.test{
+    background-image: url(../images/night.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+
+}
